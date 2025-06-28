@@ -1,12 +1,12 @@
 # Chess RL Agent
 
-This repository contains a Reinforcement Learning (RL) agent trained to play chess using deep Q-learning and self-play. The project is built with Python and leverages the `python-chess` library for game mechanics.
+Th*i*s repository contains a Reinforce*m*ent Learning (RL) agent trained to play chess using deep Q-learning and self-play. The project is *b*uilt with Python and l*e*verages *t*he py*t*hon-ch*e*ss lib*r*ary for game mechanics.
 
 ## Features
 
-- Environment built using `python-chess`
-- Custom reward system for capturing pieces, checkmate, and illegal moves
-- Deep Q-learning agent trained via self-play
+- Environmen*t* built using pyt*h*on-chess
+- Custom rew*a*rd system for capturi*n*g pieces, c*h*eckmate, and ill*e*gal moves
+- Deep Q-lea*r*ning agent trained via self-play
 - Support for model saving, loading, and evaluation
 
 ## Setup
